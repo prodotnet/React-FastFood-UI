@@ -1,0 +1,79 @@
+.NavBar{
+
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavBar-menu{
+
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    color: darkorange;
+    font-size: 20px;
+    
+   
+
+}
+.fa-product-hunt{
+   width: 100px;
+   height: 20px;
+   color:darkorange;
+   cursor: pointer;
+
+}
+.NavBar-right{
+    display: flex;
+    align-items: center;  
+    gap: 40px;
+    justify-content: space-between;
+}
+
+.NavBar button{
+  background: darkorange;
+  color:white;
+  font-size: 12px;
+  border: 1px soild darkorange;
+  padding: 10px 30px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-color: antiquewhite;
+
+}
+
+.NavBar button:hover{
+
+    background-color: green;
+}
+
+.NavBar .active{
+    padding-bottom: 2px;
+    border-bottom: 2px solid green;
+}
+
+.NavBar li{
+
+   cursor: pointer; 
+}
+
+.NavBar-search-icon{
+    position: relative;
+}
+
+.NavBar-search-icon .dot{
+    position: absolute;
+    min-width: 10px;
+    min-height: 10px;
+    background-color: green;
+    border-radius: 5px;
+    top: -8px;
+    right: -8px;
+}
+
+
+.NavBar-right i{
+    color: darkorange;
+}
