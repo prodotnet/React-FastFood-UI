@@ -34,10 +34,5 @@ This project highlights the following skills:
 - **package.json** → Project dependencies
 - **README.md** → Project documentation
 
-## 🚀 Installation & Setup
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/FastFood-Website.git
-   cd FastFood-Website
 
