@@ -19,7 +19,7 @@ This project highlights the following skills:
 - **JavaScript (React.js)**: Primary programming language (80%)
 - **CSS / Styled Components**: Styling the user interface (20%)
 - **Redux Toolkit**: Managing application state
-- **Firebase / Node.js Backend** (optional): Handling authentication & database operations
+- **Firebase / Node.js Backend**: Handling authentication & database operations
 
 ## 📂 Repository Structure
 
